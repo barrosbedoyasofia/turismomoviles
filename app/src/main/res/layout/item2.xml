@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/fondogene">
+
+    <TextView
+        android:id="@+id/restau"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:text="Restaurantes"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:background="#F2DAA4"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toTopOf="@id/fotoRestaurate1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <ImageView
+        android:id="@+id/fotoRestaurate1"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        app:layout_constraintVertical_bias="0.410"
+        app:layout_constraintTop_toBottomOf="@id/restau"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/nombreRestaurante1"
+        android:src="@drawable/restaurante2"
+        tools:ignore="NotSibling" />
+
+    <TextView
+        android:id="@+id/nombreRestaurante1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/fotoRestaurate1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/descipcionRestaurante1"
+        android:text="@string/NombreRes1"
+        android:textAlignment="center"
+        android:textSize="22dp"
+        android:textColor="@color/black"
+        android:fontFamily="sans-serif-condensed"
+      />
+    <TextView
+        android:id="@+id/descipcionRestaurante1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/nombreRestaurante1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/precioRestaurantel1"
+        android:text="@string/desRestaurante1"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:fontFamily="sans-serif-condensed-light"
+        tools:ignore="NotSibling" />
+    <TextView
+        android:id="@+id/precioRestaurantel1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="#F2DAA4"
+        android:fontFamily="sans-serif-condensed-light"
+        app:layout_constraintTop_toBottomOf="@id/descipcionRestaurante1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="@string/PrecioRes1"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        />
+
+</android.support.constraint.ConstraintLayout>

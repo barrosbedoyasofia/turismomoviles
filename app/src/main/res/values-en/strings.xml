@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Turistiando</string>
+
+
+    <string name="hotel">Hotels</string>
+    <string name="pajaritos">Birds You Can Find</string>
+    <string name="restautante">Restaurants</string>
+
+    <string name="creador">About me</string>
+    <string name="ingles">English</string>
+    <string name="español">Spanish</string>
+
+    <string name="nombre">Hi! My name is Sofia Helena Barros, and although people usually write my name without H, you can call me as you find more comfortable (✿◠‿◠) . </string>
+    <string name="Nombre">I am someone who likes to observe, to be curious about my surroundings and to inquire. Although people often think that I speak very little, in reality, before I do anything, I like to plan down to the smallest detail. This may seem exhausting, but it has allowed me to speak another language, to be passionate about science and to start learning programming.</string>
+    <string name="Descripcción">If you liked my work and wish to contact me, you will find my contact information below. Thanks for reading! </string>
+    <string name="Contatos">Contacts</string>
+    <string name="email">Email</string>
+    <string name="Email">sofiabedoyab@gmail.com</string>
+    <string name="Celular">Cell phone</string>
+    <string name="celular">+57 3045254257</string>
+
+
+    <string name="titulo">Explore Tamesis</string>
+
+    <string name="NombreHotel1">Monte Mágico</string>
+    <string name="NombreHotel2">Jaibaná Spa</string>
+    <string name="NombreHotel3">Apartamento con buena ubicación</string>
+    <string name="NombreHotel4">Mágica suite</string>
+
+
+    <string name="descripcionhotel1">It offers free Wi-Fi, an outdoor pool, a garden and a terrace.Some units have a kitchen with a fridge, oven and dishwasher.</string>
+    <string name="descripcionhotel2">Offering city views, Jaibaná Spa is located in Támesis, a restaurant, a tour desk, a bar, a garden and a terrace.</string>
+    <string name="descripcionhotel3">Located in Támesis in the Antioquia region, Apartamento con buena ubicación provides accommodation with free WiFi and free private parking.</string>
+    <string name="descripcionhotel4">EFeaturing a hot tub, Mágica suite en finca de comodidades excepcionales is set in Támesis. This apartment features a garden and free private parking..</string>
+
+    <string name="PrecioHotel1">COP 2.041.200</string>
+    <string name="PrecioHotel2">COP 1.318.620</string>
+    <string name="PrecioHotel3">COP 1.478.000</string>
+    <string name="PrecioHotel4">COP 1.478.000</string>
+
+
+    <string name="NombreRes1">Vintage cafè artesanal</string>
+    <string name="NombreRes2">Pizzabella</string>
+    <string name="NombreRes3">Café Europa</string>
+    <string name="NombreRes4">Café Con Historia Omce</string>
+
+
+    <string name="desRestaurante1"> Takeout, Reservations, Outdoor Seating, Seating, Parking Available, Wheelchair Accessible, Full Bar, Cash Only</string>
+    <string name="desRestaurante2">Italian food, Pizzeria, South American, Colombian</string>
+    <string name="desRestaurante3">Italian food</string>
+    <string name="desRestaurante4">Cafe, Healthy, Wine Bar, South American, Colombian, Fruit parlors</string>
+
+    <string name="PrecioRes1">$ 8.000 - $ 30.000</string>
+    <string name="PrecioRes2">$ 10.000 - $ 30.000</string>
+    <string name="PrecioRes3">$ 14.000 - $ 35.000</string>
+    <string name="PrecioRes4">$ 10.000 - $ 40.000</string>
+    <string name="salir"> Back</string>
+
+</resources>

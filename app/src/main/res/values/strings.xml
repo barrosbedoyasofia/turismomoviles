@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Turistiando</string>
+
+    <string name="hotel">Hoteles</string>
+    <string name="pajaritos">Aves Que Puedes Encontrar</string>
+    <string name="restautante">Restaurantes</string>
+
+    <string name="creador">Acerca de</string>
+    <string name="ingles">Ingles</string>
+    <string name="español">Español</string>
+
+    <string name="nombre">Hola! Me llamo Sofía Helena Barros, y aunque las personas suelen escribir mi nombre sin H, me puedes decir como te parezca más cómodo (✿◠‿◠) .
+</string>
+    <string name="Nombre">Soy alguien que le gusta observar, sentir curiosidad en lo que le rodea e indagar. Aunque las personas suelen pensar que hablo muy poco, en realidad antes de hacer algo, me gusta planificar hasta lo más mínimo. Lo cual puede parecer agotador, pero me ha permitido poder hablar otro idioma, ser apasionada a la ciencia y empezar a instruirme en la programación.
+
+</string>
+    <string name="Descripcción">Si te gustó mi trabajo y deseas contactarme, abajo encontraras mi información. Gracias por leer! </string>
+    <string name="Contatos">Contactos</string>
+    <string name="email">Correo Electronico</string>
+    <string name="Email">sofiabedoyab@gmail.com</string>
+    <string name="Celular">Telefono</string>
+    <string name="celular">+57 3045254257</string>
+
+
+    <string name="titulo">Conoce Támesis</string>
+
+    <string name="NombreHotel1">Monte Mágico </string>
+    <string name="NombreHotel2">Jaibaná Spas</string>
+    <string name="NombreHotel3">Apartamento con buena ubicación </string>
+    <string name="NombreHotel4">Mágica suite </string>
+
+
+    <string name="descripcionhotel1">Ofrece WiFi gratuita, piscina al aire libre, jardín y terraza.Algunos alojamientos tienen cocina con nevera, horno y lavavajillas.</string>
+    <string name="descripcionhotel2">El Jaibaná Spa se encuentra en Támesis y ofrece vistas a la ciudad, restaurante, mostrador de información turística, bar, jardín y terraza.</string>
+    <string name="descripcionhotel3">El Apartamento con buena ubicación y estacionamiento se encuentra en Támesis, en la región de Antioquia, y ofrece alojamiento con WiFi gratuita y aparcamiento privado gratuito.</string>
+    <string name="descripcionhotel4">La Mágica suite en finca de comodidades excepcionales se encuentra en Támesis y cuenta con bañera de hidromasaje. Este apartamento cuenta con jardín y aparcamiento privado gratuito.</string>
+
+    <string name="PrecioHotel1">COP 2.041.200</string>
+    <string name="PrecioHotel2">COP 1.318.620</string>
+    <string name="PrecioHotel3">COP 1.478.000</string>
+    <string name="PrecioHotel4">COP 1.478.000</string>
+
+
+    <string name="NombreRes1">Vintage cafè artesanal</string>
+    <string name="NombreRes2">Pizzabella</string>
+    <string name="NombreRes3">Café Europa</string>
+    <string name="NombreRes4">Café Con Historia Omce</string>
+
+
+    <string name="desRestaurante1">Comida para llevar, Reservas, Asientos al aire libre, Asiento, Estacionamiento disponible, Acceso para silla de ruedas, Bar completo, Solo pago en efectivo</string>
+    <string name="desRestaurante2">Comida Italiana, Pizzería, Sudamericana, Colombiana</string>
+    <string name="desRestaurante3">Comida Italiana</string>
+    <string name="desRestaurante4">Café, Saludable, Bar de vinos, Sudamericana, Colombiana, Helados con fruta</string>
+
+    <string name="PrecioRes1">$ 8.000 - $ 30.000</string>
+    <string name="PrecioRes2">$ 10.000 - $ 30.000</string>
+    <string name="PrecioRes3">$ 14.000 - $ 35.000</string>
+    <string name="PrecioRes4">$ 10.000 - $ 40.000</string>
+    <string name="salir"> Salir</string>
+</resources>
